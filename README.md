@@ -11,7 +11,8 @@ This is a responsive admin dashboard built using HTML 5, CSS 3, and JS. Charts w
 ## View the application
 
 Once the Live Server is up and running, go to http://127.0.0.1:5500/index.html to view the application.
+#Live - https://nidhikumari2811.github.io/AdminDashboard/
 
 ## Copyright and License
 
-Copyright © 2024 . 
+Copyright © 2024. 
